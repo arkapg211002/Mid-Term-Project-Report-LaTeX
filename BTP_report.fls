@@ -1,0 +1,568 @@
+PWD C:\Users\arkap\Desktop\GR-29 Final Year Project
+INPUT C:\Users\arkap\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT BTP_report.tex
+OUTPUT BTP_report.log
+INPUT D:\LaTeX\MikTex\tex\latex\base\article.cls
+INPUT D:\LaTeX\MikTex\tex\latex\base\article.cls
+INPUT D:\LaTeX\MikTex\tex\latex\base\size12.clo
+INPUT D:\LaTeX\MikTex\tex\latex\base\size12.clo
+INPUT D:\LaTeX\MikTex\tex\latex\base\size12.clo
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\amssymb.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\amssymb.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\graphicx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\graphicx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\keyval.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\keyval.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\graphics.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\graphics.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\trig.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\trig.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-def\pdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-def\pdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-def\pdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\natbib\natbib.sty
+INPUT D:\LaTeX\MikTex\tex\latex\natbib\natbib.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tools\multicol.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tools\multicol.sty
+INPUT D:\LaTeX\MikTex\tex\latex\setspace\setspace.sty
+INPUT D:\LaTeX\MikTex\tex\latex\setspace\setspace.sty
+INPUT D:\LaTeX\MikTex\tex\latex\fancyhdr\fancyhdr.sty
+INPUT D:\LaTeX\MikTex\tex\latex\fancyhdr\fancyhdr.sty
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\times.sty
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\times.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tocloft\tocloft.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tocloft\tocloft.sty
+INPUT D:\LaTeX\MikTex\tex\latex\geometry\geometry.sty
+INPUT D:\LaTeX\MikTex\tex\latex\geometry\geometry.sty
+INPUT D:\LaTeX\MikTex\tex\generic\iftex\ifvtex.sty
+INPUT D:\LaTeX\MikTex\tex\generic\iftex\ifvtex.sty
+INPUT D:\LaTeX\MikTex\tex\generic\iftex\iftex.sty
+INPUT D:\LaTeX\MikTex\tex\generic\iftex\iftex.sty
+INPUT D:\LaTeX\MikTex\tex\latex\geometry\geometry.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\geometry\geometry.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\geometry\geometry.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\base\textcomp.sty
+INPUT D:\LaTeX\MikTex\tex\latex\base\textcomp.sty
+INPUT D:\LaTeX\MikTex\tex\latex\comment\comment.sty
+INPUT D:\LaTeX\MikTex\tex\latex\comment\comment.sty
+INPUT D:\LaTeX\MikTex\tex\latex\enumitem\enumitem.sty
+INPUT D:\LaTeX\MikTex\tex\latex\enumitem\enumitem.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsmath.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsmath.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsopn.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amstext.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amstext.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsgen.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsgen.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsbsy.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsbsy.sty
+INPUT D:\LaTeX\MikTex\tex\latex\amsmath\amsopn.sty
+INPUT D:\LaTeX\MikTex\tex\latex\xcolor\xcolor.sty
+INPUT D:\LaTeX\MikTex\tex\latex\xcolor\xcolor.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\color.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\color.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics-cfg\color.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\mathcolor.ltx
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\mathcolor.ltx
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\mathcolor.ltx
+INPUT D:\LaTeX\MikTex\tex\latex\titling\titling.sty
+INPUT D:\LaTeX\MikTex\tex\latex\titling\titling.sty
+INPUT D:\LaTeX\MikTex\tex\latex\titlesec\titlesec.sty
+INPUT D:\LaTeX\MikTex\tex\latex\titlesec\titlesec.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\hyperref.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\hyperref.sty
+INPUT D:\LaTeX\MikTex\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\LaTeX\MikTex\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\LaTeX\MikTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT D:\LaTeX\MikTex\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT D:\LaTeX\MikTex\tex\generic\pdfescape\pdfescape.sty
+INPUT D:\LaTeX\MikTex\tex\generic\pdfescape\pdfescape.sty
+INPUT D:\LaTeX\MikTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\LaTeX\MikTex\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\LaTeX\MikTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\LaTeX\MikTex\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\LaTeX\MikTex\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\LaTeX\MikTex\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hycolor\hycolor.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hycolor\hycolor.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\nameref.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\nameref.sty
+INPUT D:\LaTeX\MikTex\tex\latex\refcount\refcount.sty
+INPUT D:\LaTeX\MikTex\tex\latex\refcount\refcount.sty
+INPUT D:\LaTeX\MikTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT D:\LaTeX\MikTex\tex\generic\gettitlestring\gettitlestring.sty
+INPUT D:\LaTeX\MikTex\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\LaTeX\MikTex\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\LaTeX\MikTex\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\LaTeX\MikTex\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\LaTeX\MikTex\tex\generic\stringenc\stringenc.sty
+INPUT D:\LaTeX\MikTex\tex\generic\stringenc\stringenc.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\pd1enc.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\pd1enc.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\pd1enc.def
+INPUT D:\LaTeX\MikTex\tex\generic\intcalc\intcalc.sty
+INPUT D:\LaTeX\MikTex\tex\generic\intcalc\intcalc.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\puenc.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\puenc.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\puenc.def
+INPUT D:\LaTeX\MikTex\tex\latex\url\url.sty
+INPUT D:\LaTeX\MikTex\tex\latex\url\url.sty
+INPUT D:\LaTeX\MikTex\tex\generic\bitset\bitset.sty
+INPUT D:\LaTeX\MikTex\tex\generic\bitset\bitset.sty
+INPUT D:\LaTeX\MikTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT D:\LaTeX\MikTex\tex\generic\bigintcalc\bigintcalc.sty
+INPUT D:\LaTeX\MikTex\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\LaTeX\MikTex\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\hpdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\hpdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\hyperref\hpdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\atveryend\atveryend.sty
+INPUT D:\LaTeX\MikTex\tex\latex\base\atveryend-ltx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\base\atveryend-ltx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT D:\LaTeX\MikTex\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT D:\LaTeX\MikTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\LaTeX\MikTex\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\LaTeX\MikTex\tex\latex\siunitx\siunitx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\siunitx\siunitx.sty
+INPUT D:\LaTeX\MikTex\tex\latex\translations\translations.sty
+INPUT D:\LaTeX\MikTex\tex\latex\translations\translations.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tools\array.sty
+INPUT D:\LaTeX\MikTex\tex\latex\tools\array.sty
+INPUT D:\LaTeX\MikTex\tex\latex\graphics\color.sty
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1ptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1ptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1ptm.fd
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\LaTeX\MikTex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\BTP_report.aux
+INPUT .\BTP_report.aux
+INPUT BTP_report.aux
+OUTPUT BTP_report.aux
+INPUT D:\LaTeX\MikTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\LaTeX\MikTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\LaTeX\MikTex\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\LaTeX\MikTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\LaTeX\MikTex\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\LaTeX\MikTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\LaTeX\MikTex\tex\latex\00miktex\epstopdf-sys.cfg
+OUTPUT BTP_report.out
+OUTPUT BTP_report.pdf
+INPUT D:\LaTeX\MikTex\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT D:\LaTeX\MikTex\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT D:\LaTeX\MikTex\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT .\FrontMatter\titlePage.tex
+INPUT .\FrontMatter\titlePage.tex
+OUTPUT .\FrontMatter\titlePage.aux
+INPUT .\FrontMatter\titlePage.tex
+INPUT .\FrontMatter\titlePage.tex
+INPUT FrontMatter\titlePage.tex
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\jknappen\ec\tcrm1440.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsa.fd
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsa.fd
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsa.fd
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsb.fd
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsb.fd
+INPUT D:\LaTeX\MikTex\tex\latex\amsfonts\umsb.fd
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT .\Images\tmsl.png
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\arkap\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\LaTeX\MikTex\fonts\enc\dvips\base\8r.enc
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmr7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmr7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT .\FrontMatter\approval.tex
+INPUT .\FrontMatter\approval.tex
+OUTPUT .\FrontMatter\approval.aux
+INPUT .\FrontMatter\approval.tex
+INPUT .\FrontMatter\approval.tex
+INPUT FrontMatter\approval.tex
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmr7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmri7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT .\FrontMatter\acknowledgements.tex
+INPUT .\FrontMatter\acknowledgements.tex
+OUTPUT .\FrontMatter\acknowledgements.aux
+INPUT .\FrontMatter\acknowledgements.tex
+INPUT .\FrontMatter\acknowledgements.tex
+INPUT FrontMatter\acknowledgements.tex
+OUTPUT BTP_report.toc
+OUTPUT BTP_report.lof
+INPUT .\Chapters\content.tex
+INPUT .\Chapters\content.tex
+OUTPUT .\Chapters\content.aux
+INPUT .\Chapters\content.tex
+INPUT .\Chapters\content.tex
+INPUT Chapters\content.tex
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ts1ptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ts1ptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ts1ptm.fd
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmr8c.vf
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\01 Life_cycle.jpg
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\MS Project Plan Sem 7.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Gantt Chart.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT .\Images\Requirement Matrix.png
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\times\ptmbi7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1pcr.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1pcr.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\ot1pcr.fd
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\Project Modules.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\System Overview.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\ML Model Workflow.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\Project Sequence.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\RM_part_for_implementation.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output Data Preprocessing.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output BOW.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Output Splitting Dataset.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output Logistic Regression.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\Output HPT LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\ROC LR.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\Output KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\ROC KNN.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\Output HPT SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\ROC SVM.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Naive Bayes.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\Output HPT NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\ROC NB.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Random Forest.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\Output RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT .\Images\ROC RF.png
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\LaTeX\MikTex\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT .\Images\Confusion Matrix LR.png
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\omsptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\omsptm.fd
+INPUT D:\LaTeX\MikTex\tex\latex\psnfss\omsptm.fd
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix KNN.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix SVM.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix NB.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\Images\Confusion Matrix RF.png
+INPUT .\BTP_report.bbl
+INPUT .\BTP_report.bbl
+INPUT BTP_report.bbl
+INPUT BTP_report.aux
+INPUT .\FrontMatter\titlePage.aux
+INPUT .\FrontMatter\titlePage.aux
+INPUT FrontMatter\titlePage.aux
+INPUT .\FrontMatter\approval.aux
+INPUT .\FrontMatter\approval.aux
+INPUT FrontMatter\approval.aux
+INPUT .\FrontMatter\acknowledgements.aux
+INPUT .\FrontMatter\acknowledgements.aux
+INPUT FrontMatter\acknowledgements.aux
+INPUT .\Chapters\content.aux
+INPUT .\Chapters\content.aux
+INPUT Chapters\content.aux
+INPUT .\BTP_report.out
+INPUT .\BTP_report.out
+INPUT C:\Users\arkap\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\arkap\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmb8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmb8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmbi8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmbi8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmr8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmr8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmri8a.pfb
+INPUT D:\LaTeX\MikTex\fonts\type1\urw\times\utmri8a.pfb

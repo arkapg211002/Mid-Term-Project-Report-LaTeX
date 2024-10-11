@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{alsagri2020machine}
+Hatoon~S AlSagri and Mourad Ykhlef.
+\newblock Machine learning-based approach for depression detection in twitter
+  using content and activity features.
+\newblock {\em IEICE Transactions on Information and Systems},
+  103(8):1825--1832, 2020.
+
+\bibitem{Choudhury2013PredictingDV}
+Munmun~De Choudhury, Michael Gamon, Scott Counts, and Eric Horvitz.
+\newblock Predicting depression via social media.
+\newblock {\em Proceedings of the International AAAI Conference on Web and
+  Social Media}, 2013.
+
+\bibitem{Guntuku2017DetectingDA}
+Sharath~Chandra Guntuku, David~Bryce Yaden, Margaret~L. Kern, Lyle~H. Ungar,
+  and Johannes~C. Eichstaedt.
+\newblock Detecting depression and mental illness on social media: an
+  integrative review.
+\newblock {\em Current Opinion in Behavioral Sciences}, 18:43--49, 2017.
+
+\bibitem{Mathur2022MentalHC}
+Priya Mathur, Amit~Kumar Gupta, and Abhishek Dadhich.
+\newblock Mental health classification on social-media: Systematic review.
+\newblock {\em Proceedings of the 4th International Conference on Information
+  Management \& Machine Intelligence}, 2022.
+
+\bibitem{nadeem2016identifying}
+Moin Nadeem.
+\newblock Identifying depression on twitter.
+\newblock {\em arXiv preprint arXiv:1607.07384}, 2016.
+
+\bibitem{safa2023predictingmentalhealthusing}
+Ramin Safa, S.~A. Edalatpanah, and Ali Sorourkhah.
+\newblock Predicting mental health using social media: A roadmap for future
+  development, 2023.
+
+\bibitem{Vaishnavi_2022}
+Konda Vaishnavi, U~Nikhitha Kamath, B~Ashwath Rao, and N~V~Subba Reddy.
+\newblock Predicting mental health illness using machine learning algorithms.
+\newblock {\em Journal of Physics: Conference Series}, 2161(1):012021, jan
+  2022.
+
+\end{thebibliography}
